@@ -1,0 +1,15 @@
+c:\Users\theco\OneDrive\Masaüstü\C# PROJECT\Tersten Yazma\bin\Debug\net6.0\task_0.exe
+c:\Users\theco\OneDrive\Masaüstü\C# PROJECT\Tersten Yazma\bin\Debug\net6.0\task_0.deps.json
+c:\Users\theco\OneDrive\Masaüstü\C# PROJECT\Tersten Yazma\bin\Debug\net6.0\task_0.runtimeconfig.json
+c:\Users\theco\OneDrive\Masaüstü\C# PROJECT\Tersten Yazma\bin\Debug\net6.0\task_0.dll
+c:\Users\theco\OneDrive\Masaüstü\C# PROJECT\Tersten Yazma\bin\Debug\net6.0\task_0.pdb
+c:\Users\theco\OneDrive\Masaüstü\C# PROJECT\Tersten Yazma\obj\Debug\net6.0\task_0.csproj.AssemblyReference.cache
+c:\Users\theco\OneDrive\Masaüstü\C# PROJECT\Tersten Yazma\obj\Debug\net6.0\task_0.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\theco\OneDrive\Masaüstü\C# PROJECT\Tersten Yazma\obj\Debug\net6.0\task_0.AssemblyInfoInputs.cache
+c:\Users\theco\OneDrive\Masaüstü\C# PROJECT\Tersten Yazma\obj\Debug\net6.0\task_0.AssemblyInfo.cs
+c:\Users\theco\OneDrive\Masaüstü\C# PROJECT\Tersten Yazma\obj\Debug\net6.0\task_0.csproj.CoreCompileInputs.cache
+c:\Users\theco\OneDrive\Masaüstü\C# PROJECT\Tersten Yazma\obj\Debug\net6.0\task_0.dll
+c:\Users\theco\OneDrive\Masaüstü\C# PROJECT\Tersten Yazma\obj\Debug\net6.0\refint\task_0.dll
+c:\Users\theco\OneDrive\Masaüstü\C# PROJECT\Tersten Yazma\obj\Debug\net6.0\task_0.pdb
+c:\Users\theco\OneDrive\Masaüstü\C# PROJECT\Tersten Yazma\obj\Debug\net6.0\task_0.genruntimeconfig.cache
+c:\Users\theco\OneDrive\Masaüstü\C# PROJECT\Tersten Yazma\obj\Debug\net6.0\ref\task_0.dll
